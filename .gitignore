@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Data and output (ignore contents but keep directory)
+data/*
+!data/.gitkeep
+
+plots/*
+!plots/.gitkeep
