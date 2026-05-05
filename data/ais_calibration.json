@@ -1,0 +1,20 @@
+{
+  "Small": {
+    "speed_knots": 4.5,
+    "speed_std": 4.71,
+    "spread_deg": 31.09,
+    "sample_count": 2291
+  },
+  "Medium": {
+    "speed_knots": 10.0,
+    "speed_std": 5.14,
+    "spread_deg": 5.31,
+    "sample_count": 623
+  },
+  "Large": {
+    "speed_knots": 9.6,
+    "speed_std": 5.98,
+    "spread_deg": 2.35,
+    "sample_count": 387
+  }
+}

@@ -5,3 +5,5 @@ matplotlib
 scipy
 scikit-image
 tqdm
+pandas
+openpyxl

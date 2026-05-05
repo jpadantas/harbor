@@ -23,9 +23,16 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Data and output (ignore contents but keep directory)
-data/*
-!data/.gitkeep
+# Generated output plots (keep the directory, ignore contents)
+outputs/*
+!outputs/.gitkeep
 
-plots/*
-!plots/.gitkeep
+# SAR example image (large binary, not tracked)
+data/example.tif
+
+# Paper folder
+paper/
+scripts/
+scratch/
+
+
