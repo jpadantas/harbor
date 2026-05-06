@@ -136,9 +136,7 @@ The pipeline generates the following visualizations in the `outputs/` directory:
 |------|-------------|
 | `sar_normalized.png` | Normalized SAR input image. |
 | `sar_with_directions.png` | Bounding boxes and estimated heading arrows per vessel. Arrows are color-coded by confidence (**Yellow**: High confidence, **Orange**: Low confidence). |
-| `sar_with_projection_Xmin.png` | Gaussian heatmap of projected future positions overlaid on the SAR image. |
-
-*Note: Auxiliary scripts located in `scripts/` can be used to generate specific detailed figures (e.g., `scripts/generate_fig4.py` for zoomed sub-regions used in the manuscript).*
+| `sar_with_projection_Xmin.png` | Gaussian heatmap of projected future positions overlaid on the SAR image.
 
 ---
 
