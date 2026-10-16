@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Code for: HARBOR: Heading Analysis and Reconstruction from Behavioral Observation and Radar"
+type: software
+authors:
+  - family-names: "Dantas"
+    given-names: "Joao"
+    orcid: "https://orcid.org/0000-0003-0300-8027"
+  - family-names: "Silva Filho"
+    given-names: "Paulo"
+  - family-names: "da Cunha"
+    given-names: "Jelton"
+  - family-names: "Dietzsch"
+    given-names: "Gabriel"
+repository-code: "https://github.com/jpadantas/harbor"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  collection-title: "AIAA AVIATION 2026 Forum"
+  title: "HARBOR: Heading Analysis and Reconstruction from Behavioral Observation and Radar"
+  authors:
+    - family-names: "Dantas"
+      given-names: "Joao"
+      orcid: "https://orcid.org/0000-0003-0300-8027"
+    - family-names: "Silva Filho"
+      given-names: "Paulo"
+    - family-names: "da Cunha"
+      given-names: "Jelton"
+    - family-names: "Dietzsch"
+      given-names: "Gabriel"
+  year: 2026
+  doi: "10.2514/6.2026-4783"
+  url: "https://www.joaopadantas.com/publications/dantas2026harbor/"
