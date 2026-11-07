@@ -148,10 +148,15 @@ The pipeline generates the following visualizations in the `outputs/` directory:
 If you use this code or our methodology in your research, please cite:
 
 ```bibtex
-@article{dantas2026harbor,
-  title  = {HARBOR: Heading Analysis and Reconstruction from Behavioral Observation and Radar},
-  author = {Dantas, Joao P. A. and Silva Filho, Paulo F. and Cunha, Jelton A. and Dietzsch, Gabriel},
-  year   = {2026},
+@inproceedings{dantas2026harbor,
+  author = {Dantas, Joao and Silva Filho, Paulo and Cunha, Jelton and Dietzsch, Gabriel},
+  title = {{HARBOR: Heading Analysis and Reconstruction from Behavioral Observation and Radar}},
+  booktitle = {AIAA AVIATION 2026 Forum},
+  year = {2026},
+  publisher = {American Institute of Aeronautics and Astronautics (AIAA)},
+  location = {San Diego, CA, USA},
+  doi = {10.2514/6.2026-4783},
+  url = {https://doi.org/10.2514/6.2026-4783}
 }
 ```
 
