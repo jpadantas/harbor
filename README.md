@@ -1,5 +1,8 @@
 # HARBOR: Heading Analysis and Reconstruction from Behavioral Observation and Radar
 
+> **Paper, PDF and citation:** [joaopadantas.com/publications/dantas2026harbor](https://www.joaopadantas.com/publications/dantas2026harbor/)
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 HARBOR is a reference implementation for estimating **ship heading** and generating **future-location projection heatmaps** from a **single Synthetic Aperture Radar (SAR)** intensity image. The method combines morphological processing, skeleton-based shape analysis, local intensity heuristics, and probabilistic behavioral modeling — calibrated with real-world AIS telemetry data.
